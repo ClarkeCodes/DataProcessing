@@ -1,5 +1,18 @@
 canvas
 {
-    border-left: 1px solid black;
-    border-bottom: 1px solid black;
+    margin: 40px;
+}
+
+h2
+{
+    font-family: "Open Sans", "Helvetica", sans-serif;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+p
+{
+    font-family: "Open Sans", "Helvetica", sans-serif;
+    font-size: 11px;
+    text-align: center;
 }
