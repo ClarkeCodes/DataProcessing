@@ -17,4 +17,4 @@ A folder with all programming assignments, sorted by week. List of contents:
 A folder with all group assignments (group 3) for design, sorted by week. 
 
 * Week 1: [Population Data](https://github.com/ElineJ/DataProcessing/tree/master/Design/Week-1)
-* Week 2: [Design Critique]()
+* Week 2: [Design Critique](https://github.com/ElineJ/DataProcessing/tree/master/Design/Week-2)
