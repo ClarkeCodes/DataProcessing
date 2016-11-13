@@ -1,5 +1,4 @@
 # DataProcessing
-=======
 Assignments for Data Processing  
 Eline Jacobse  
 Student number: 11136235
@@ -8,7 +7,7 @@ Student number: 11136235
 A folder with all programming assignments, sorted by week. List of contents:
 * Week 1: [TV scraper](https://github.com/ElineJ/DataProcessing/tree/master/Homework/Week-1) :tv:
 
-  > This script scrapes IMDB and outputs a CSV file with highest rated tv series.  
+  > A python script that scrapes IMDB and outputs a CSV file with highest rated TV series.  
   
 * Week 2:  [Line Graph](https://github.com/ElineJ/DataProcessing/tree/master/Homework/Week-2) :chart_with_upwards_trend:
 
