@@ -1,0 +1,24 @@
+/* continent color */
+.continent
+{
+
+}
+
+/* country colors */
+#fra
+{
+    color: #b73a3a;
+    fill: currentColor;
+}
+
+#nld
+{
+    color: #00bcd4;
+    fill: currentColor;
+}
+
+#be
+{
+    color: orange;
+    fill: currentColor;
+}
