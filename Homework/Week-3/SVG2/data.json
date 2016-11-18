@@ -1,0 +1,803 @@
+[
+    {
+        "country": "Afghanistan",
+        "refugees": "205558",
+        "per_thousand": "7.14"
+    },
+    {
+        "country": "Albania",
+        "refugees": "154",
+        "per_thousand": "0.05"
+    },
+    {
+        "country": "Algeria",
+        "refugees": "94144",
+        "per_thousand": "2.42"
+    },
+    {
+        "country": "Angola",
+        "refugees": "15572",
+        "per_thousand": "0.64"
+    },
+    {
+        "country": "Argentina",
+        "refugees": "3523",
+        "per_thousand": "0.08"
+    },
+    {
+        "country": "Armenia",
+        "refugees": "3240",
+        "per_thousand": "5.22"
+    },
+    {
+        "country": "Aruba",
+        "refugees": "",
+        "per_thousand": ""
+    },
+    {
+        "country": "Australia",
+        "refugees": "35582",
+        "per_thousand": "1.51"
+    },
+    {
+        "country": "Austria",
+        "refugees": "60747",
+        "per_thousand": "7.13"
+    },
+    {
+        "country": "Azerbaijan",
+        "refugees": "1357",
+        "per_thousand": "0.14"
+    },
+    {
+        "country": "Bahamas",
+        "refugees": "7",
+        "per_thousand": "0.02"
+    },
+    {
+        "country": "Bahrain",
+        "refugees": "277",
+        "per_thousand": "0.2"
+    },
+    {
+        "country": "Bangladesh",
+        "refugees": "32975",
+        "per_thousand": "1.46"
+    },
+    {
+        "country": "Barbados",
+        "refugees": "1",
+        "per_thousand": ""
+    },
+    {
+        "country": "Belarus",
+        "refugees": "1369",
+        "per_thousand": "0.14"
+    },
+    {
+        "country": "Belgium",
+        "refugees": "31115",
+        "per_thousand": "2.77"
+    },
+    {
+        "country": "Belize",
+        "refugees": "",
+        "per_thousand": ""
+    },
+    {
+        "country": "Benin",
+        "refugees": "488",
+        "per_thousand": "0.05"
+    },
+    {
+        "country": "Bolivia",
+        "refugees": "767",
+        "per_thousand": "0.07"
+    },
+    {
+        "country": "Bosnia and Herzegovina",
+        "refugees": "6805",
+        "per_thousand": "1.78"
+    },
+    {
+        "country": "Botswana",
+        "refugees": "2164",
+        "per_thousand": "0.97"
+    },
+    {
+        "country": "Brazil",
+        "refugees": "7762",
+        "per_thousand": "0.04"
+    },
+    {
+        "country": "British Virgin Islands",
+        "refugees": "",
+        "per_thousand": ""
+    },
+    {
+        "country": "Bulgaria",
+        "refugees": "11046",
+        "per_thousand": "1.53"
+    },
+    {
+        "country": "Burkina Faso",
+        "refugees": "34027",
+        "per_thousand": "1.93"
+    },
+    {
+        "country": "Burundi",
+        "refugees": "54126",
+        "per_thousand": "5"
+    },
+    {
+        "country": "Cambodia",
+        "refugees": "80",
+        "per_thousand": "0.01"
+    },
+    {
+        "country": "Cameroon",
+        "refugees": "288552",
+        "per_thousand": "13.27"
+    },
+    {
+        "country": "Canada",
+        "refugees": "149163",
+        "per_thousand": "4.19"
+    },
+    {
+        "country": "CAR",
+        "refugees": "7906",
+        "per_thousand": "1.65"
+    },
+    {
+        "country": "Cayman Islands",
+        "refugees": "6",
+        "per_thousand": "0.1"
+    },
+    {
+        "country": "Chad",
+        "refugees": "420774",
+        "per_thousand": "30.97"
+    },
+    {
+        "country": "Chile",
+        "refugees": "1798",
+        "per_thousand": "0.1"
+    },
+    {
+        "country": "China",
+        "refugees": "301057",
+        "per_thousand": "0.22"
+    },
+    {
+        "country": "Colombia",
+        "refugees": "219",
+        "per_thousand": ""
+    },
+    {
+        "country": "Congo",
+        "refugees": "61492",
+        "per_thousand": "13.65"
+    },
+    {
+        "country": "Costa Rica",
+        "refugees": "3475",
+        "per_thousand": "0.73"
+    },
+    {
+        "country": "Ivory Coast",
+        "refugees": "1972",
+        "per_thousand": "0.09"
+    },
+    {
+        "country": "Croatia",
+        "refugees": "669",
+        "per_thousand": "0.17"
+    },
+    {
+        "country": "Cuba",
+        "refugees": "313",
+        "per_thousand": "0.03"
+    },
+    {
+        "country": "Curaçao",
+        "refugees": "44",
+        "per_thousand": "0.28"
+    },
+    {
+        "country": "Cyprus",
+        "refugees": "5763",
+        "per_thousand": "4.99"
+    },
+    {
+        "country": "Czech Republic",
+        "refugees": "3137",
+        "per_thousand": "0.3"
+    },
+    {
+        "country": "DRC",
+        "refugees": "160271",
+        "per_thousand": "2.14"
+    },
+    {
+        "country": "Denmark",
+        "refugees": "17785",
+        "per_thousand": "3.15"
+    },
+    {
+        "country": "Djibouti",
+        "refugees": "14787",
+        "per_thousand": "16.88"
+    },
+    {
+        "country": "Dominican Republic",
+        "refugees": "609",
+        "per_thousand": "0.06"
+    },
+    {
+        "country": "Ecuador",
+        "refugees": "53378",
+        "per_thousand": "7.65"
+    },
+    {
+        "country": "Egypt",
+        "refugees": "226344",
+        "per_thousand": "2.53"
+    },
+    {
+        "country": "El Salvador",
+        "refugees": "48",
+        "per_thousand": "0.01"
+    },
+    {
+        "country": "Eritrea",
+        "refugees": "2944",
+        "per_thousand": "0.58"
+    },
+    {
+        "country": "Estonia",
+        "refugees": "117",
+        "per_thousand": "0.09"
+    },
+    {
+        "country": "Ethiopia",
+        "refugees": "702467",
+        "per_thousand": "7.24"
+    },
+    {
+        "country": "Fiji",
+        "refugees": "12",
+        "per_thousand": "0.01"
+    },
+    {
+        "country": "Finland",
+        "refugees": "11798",
+        "per_thousand": "2.15"
+    },
+    {
+        "country": "France",
+        "refugees": "264972",
+        "per_thousand": "4.13"
+    },
+    {
+        "country": "Gabon",
+        "refugees": "1008",
+        "per_thousand": "0.6"
+    },
+    {
+        "country": "Gambia",
+        "refugees": "11773",
+        "per_thousand": "6.11"
+    },
+    {
+        "country": "Georgia",
+        "refugees": "1060",
+        "per_thousand": "0.41"
+    },
+    {
+        "country": "Germany",
+        "refugees": "250299",
+        "per_thousand": "3.1"
+    },
+    {
+        "country": "Ghana",
+        "refugees": "18476",
+        "per_thousand": "0.69"
+    },
+    {
+        "country": "Greece",
+        "refugees": "7304",
+        "per_thousand": "0.75"
+    },
+    {
+        "country": "Grenada",
+        "refugees": "",
+        "per_thousand": ""
+    },
+    {
+        "country": "Guatemala",
+        "refugees": "202",
+        "per_thousand": "0.01"
+    },
+    {
+        "country": "Guinea",
+        "refugees": "8704",
+        "per_thousand": "0.71"
+    },
+    {
+        "country": "Guinea-Bissau",
+        "refugees": "8684",
+        "per_thousand": "4.82"
+    },
+    {
+        "country": "Guyana",
+        "refugees": "11",
+        "per_thousand": "0.01"
+    },
+    {
+        "country": "Haiti",
+        "refugees": "5",
+        "per_thousand": ""
+    },
+    {
+        "country": "Honduras",
+        "refugees": "23",
+        "per_thousand": ""
+    },
+    {
+        "country": "Hong Kong",
+        "refugees": "151",
+        "per_thousand": "0.02"
+    },
+    {
+        "country": "Hungary",
+        "refugees": "4192",
+        "per_thousand": "0.42"
+    },
+    {
+        "country": "Iceland",
+        "refugees": "104",
+        "per_thousand": "0.32"
+    },
+    {
+        "country": "India",
+        "refugees": "200383",
+        "per_thousand": "0.15"
+    },
+    {
+        "country": "Indonesia",
+        "refugees": "5277",
+        "per_thousand": "0.02"
+    },
+    {
+        "country": "Iran",
+        "refugees": "979441",
+        "per_thousand": "12.53"
+    },
+    {
+        "country": "Iraq",
+        "refugees": "288035",
+        "per_thousand": "8.17"
+    },
+    {
+        "country": "Ireland",
+        "refugees": "5853",
+        "per_thousand": "1.25"
+    },
+    {
+        "country": "Israel",
+        "refugees": "361",
+        "per_thousand": "4.85"
+    },
+    {
+        "country": "Italy",
+        "refugees": "93715",
+        "per_thousand": "1.57"
+    },
+    {
+        "country": "Jamaica",
+        "refugees": "15",
+        "per_thousand": "0.01"
+    },
+    {
+        "country": "Japan",
+        "refugees": "2419",
+        "per_thousand": "0.02"
+    },
+    {
+        "country": "Jordan",
+        "refugees": "664102",
+        "per_thousand": "89.55"
+    },
+    {
+        "country": "Kazakhstan",
+        "refugees": "662",
+        "per_thousand": "0.04"
+    },
+    {
+        "country": "Kenya",
+        "refugees": "552272",
+        "per_thousand": "12.31"
+    },
+    {
+        "country": "Kuwait",
+        "refugees": "593",
+        "per_thousand": "0.16"
+    },
+    {
+        "country": "Kyrgyzstan",
+        "refugees": "433",
+        "per_thousand": "0.07"
+    },
+    {
+        "country": "Latvia",
+        "refugees": "195",
+        "per_thousand": "0.1"
+    },
+    {
+        "country": "Lebanon",
+        "refugees": "1172388",
+        "per_thousand": "208.91"
+    },
+    {
+        "country": "Lesotho",
+        "refugees": "44",
+        "per_thousand": "0.02"
+    },
+    {
+        "country": "Liberia",
+        "refugees": "38904",
+        "per_thousand": "8.85"
+    },
+    {
+        "country": "Libya",
+        "refugees": "27948",
+        "per_thousand": "4.47"
+    },
+    {
+        "country": "Liechtenstein",
+        "refugees": "107",
+        "per_thousand": "2.89"
+    },
+    {
+        "country": "Lithuania",
+        "refugees": "1055",
+        "per_thousand": "0.36"
+    },
+    {
+        "country": "Luxembourg",
+        "refugees": "1192",
+        "per_thousand": "2.14"
+    },
+    {
+        "country": "Macao",
+        "refugees": "",
+        "per_thousand": ""
+    },
+    {
+        "country": "Macedonia",
+        "refugees": "584",
+        "per_thousand": "0.4"
+    },
+    {
+        "country": "Madagascar",
+        "refugees": "10",
+        "per_thousand": ""
+    },
+    {
+        "country": "Malawi",
+        "refugees": "8963",
+        "per_thousand": "0.54"
+    },
+    {
+        "country": "Malaysia",
+        "refugees": "97385",
+        "per_thousand": "3.26"
+    },
+    {
+        "country": "Mali",
+        "refugees": "14970",
+        "per_thousand": "0.88"
+    },
+    {
+        "country": "Malta",
+        "refugees": "6095",
+        "per_thousand": "14.58"
+    },
+    {
+        "country": "Mauritania",
+        "refugees": "50851",
+        "per_thousand": "19.36"
+    },
+    {
+        "country": "Mexico",
+        "refugees": "2158",
+        "per_thousand": "0.02"
+    },
+    {
+        "country": "Micronesia",
+        "refugees": "",
+        "per_thousand": ""
+    },
+    {
+        "country": "Moldova",
+        "refugees": "389",
+        "per_thousand": "0.1"
+    },
+    {
+        "country": "Monaco",
+        "refugees": "33",
+        "per_thousand": "0.87"
+    },
+    {
+        "country": "Mongolia",
+        "refugees": "11",
+        "per_thousand": ""
+    },
+    {
+        "country": "Montenegro",
+        "refugees": "6203",
+        "per_thousand": "9.92"
+    },
+    {
+        "country": "Morocco",
+        "refugees": "2144",
+        "per_thousand": "0.06"
+    },
+    {
+        "country": "Mozambique",
+        "refugees": "4552",
+        "per_thousand": "0.17"
+    },
+    {
+        "country": "Namibia",
+        "refugees": "1659",
+        "per_thousand": "0.69"
+    },
+    {
+        "country": "Nauru",
+        "refugees": "506",
+        "per_thousand": "50.6"
+    },
+    {
+        "country": "Nepal",
+        "refugees": "36287",
+        "per_thousand": "1.29"
+    },
+    {
+        "country": "Netherlands",
+        "refugees": "82494",
+        "per_thousand": "4.89"
+    },
+    {
+        "country": "New Zealand",
+        "refugees": "1349",
+        "per_thousand": "0.3"
+    },
+    {
+        "country": "Nicaragua",
+        "refugees": "361",
+        "per_thousand": "0.06"
+    },
+    {
+        "country": "Niger",
+        "refugees": "82064",
+        "per_thousand": "4.29"
+    },
+    {
+        "country": "Nigeria",
+        "refugees": "1279",
+        "per_thousand": "0.01"
+    },
+    {
+        "country": "Norway",
+        "refugees": "47043",
+        "per_thousand": "9.14"
+    },
+    {
+        "country": "Oman",
+        "refugees": "122",
+        "per_thousand": "0.03"
+    },
+    {
+        "country": "Pakistan",
+        "refugees": "1540854",
+        "per_thousand": "8.33"
+    },
+    {
+        "country": "Palau",
+        "refugees": "1",
+        "per_thousand": "0.05"
+    },
+    {
+        "country": "Panama",
+        "refugees": "2303",
+        "per_thousand": "4.47"
+    },
+    {
+        "country": "Papua New Guinea",
+        "refugees": "4929",
+        "per_thousand": "1.27"
+    },
+    {
+        "country": "Paraguay",
+        "refugees": "161",
+        "per_thousand": "0.02"
+    },
+    {
+        "country": "Peru",
+        "refugees": "1407",
+        "per_thousand": "0.05"
+    },
+    {
+        "country": "Philippines",
+        "refugees": "254",
+        "per_thousand": ""
+    },
+    {
+        "country": "Poland",
+        "refugees": "15741",
+        "per_thousand": "0.41"
+    },
+    {
+        "country": "Portugal",
+        "refugees": "699",
+        "per_thousand": "0.07"
+    },
+    {
+        "country": "Qatar",
+        "refugees": "133",
+        "per_thousand": "0.06"
+    },
+    {
+        "country": "South Korea",
+        "refugees": "1313",
+        "per_thousand": "0.03"
+    },
+    {
+        "country": "Romania",
+        "refugees": "2426",
+        "per_thousand": "0.12"
+    },
+    {
+        "country": "Russia",
+        "refugees": "315313",
+        "per_thousand": "2.2"
+    },
+    {
+        "country": "Rwanda",
+        "refugees": "132743",
+        "per_thousand": "11.7"
+    },
+    {
+        "country": "Saint Kitts and Nevis",
+        "refugees": "1",
+        "per_thousand": "0.02"
+    },
+    {
+        "country": "Saint Lucia",
+        "refugees": "2",
+        "per_thousand": "0.01"
+    },
+    {
+        "country": "Sint Maarten",
+        "refugees": "3",
+        "per_thousand": "0.08"
+    },
+    {
+        "country": "Saudi Arabia",
+        "refugees": "184",
+        "per_thousand": "0.01"
+    },
+    {
+        "country": "Senegal",
+        "refugees": "14304",
+        "per_thousand": "0.97"
+    },
+    {
+        "country": "Serbia and Kosovo",
+        "refugees": "35309",
+        "per_thousand": "3.97"
+    },
+    {
+        "country": "Sierra Leone",
+        "refugees": "1371",
+        "per_thousand": "0.22"
+    },
+    {
+        "country": "Singapore",
+        "refugees": "",
+        "per_thousand": ""
+    },
+    {
+        "country": "Slovakia",
+        "refugees": "799",
+        "per_thousand": "0.15"
+    },
+    {
+        "country": "Slovenia",
+        "refugees": "283",
+        "per_thousand": "0.14"
+    },
+    {
+        "country": "Solomon Islands",
+        "refugees": "3",
+        "per_thousand": "0.01"
+    },
+    {
+        "country": "Somalia",
+        "refugees": "3582",
+        "per_thousand": "0.34"
+    },
+    {
+        "country": "South Africa",
+        "refugees": "114512",
+        "per_thousand": "2.12"
+    },
+    {
+        "country": "South Sudan",
+        "refugees": "265887",
+        "per_thousand": "22.32"
+    },
+    {
+        "country": "Spain",
+        "refugees": "5798",
+        "per_thousand": "0.13"
+    },
+    {
+        "country": "Sri Lanka",
+        "refugees": "848",
+        "per_thousand": "0.04"
+    },
+    {
+        "country": "Sudan",
+        "refugees": "322638",
+        "per_thousand": "9.05"
+    },
+    {
+        "country": "Suriname",
+        "refugees": "1",
+        "per_thousand": ""
+    },
+    {
+        "country": "Swaziland",
+        "refugees": "539",
+        "per_thousand": "0.42"
+    },
+    {
+        "country": "Sweden",
+        "refugees": "142207",
+        "per_thousand": "14.66"
+    },
+    {
+        "country": "Switzerland",
+        "refugees": "69390",
+        "per_thousand": "8.45"
+    },
+    {
+        "country": "Syria",
+        "refugees": "149200",
+        "per_thousand": "7.95"
+    },
+    {
+        "country": "Tajikistan",
+        "refugees": "1782",
+        "per_thousand": "0.21"
+    },
+    {
+        "country": "Tanzania",
+        "refugees": "159014",
+        "per_thousand": "3.07"
+    },
+    {
+        "country": "Thailand",
+        "refugees": "56947",
+        "per_thousand": "1.63"
+    },
+    {
+        "country": "East Timor",
+        "refugees": "",
+        "per_thousand": ""
+    },
+    {
+   

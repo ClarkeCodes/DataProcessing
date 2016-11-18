@@ -1,0 +1,163 @@
+/**
+ * svg2.js
+ *
+ * Eline Jacobse
+ * Data Processing
+ * Student.nr: 11136235
+ *
+ * Custom CSS for the webpage svg2.html
+ */
+
+ /* Hides the textarea with JSON data */
+ #rawdata
+ {
+     visibility: hidden;
+ }
+
+ /* adds padding/whitespace to the top of the svg-map */
+ #svg-map
+ {
+     padding-top: 30px;
+
+ }
+
+ /*
+  * Titles on the page
+  */
+ h3
+ {
+     font-family: "Open Sans", "Helvetica", sans-serif;
+     color: #515151;
+     margin-bottom: 10px;
+     align: center;
+ }
+
+ h5
+ {
+     font-family: "Open Sans", "Helvetica", sans-serif;
+     color: #515151;
+     align: center;
+ }
+
+ p
+ {
+     font-family: "Open Sans", "Helvetica", sans-serif;
+     color: #515151;
+ }
+
+ /*
+  * Styles for the legend (rectangles and text)
+  */
+ #legend
+ {
+     stroke-width: 0.5;
+     stroke: black;
+     align-self: left;
+     font-family: "Open Sans", "Helvetica", sans-serif;
+     color: #515151;
+     font-size: 12.5px;
+ }
+ #legend .rect_0
+ {
+     fill: #f9f9f9;
+ }
+
+ #legend .rect_1
+ {
+     fill: #fef0d9;
+ }
+
+ #legend .rect_2
+ {
+     fill: #fdd49e;
+ }
+
+ #legend .rect_3
+ {
+     fill: #fdbb84;
+ }
+ #legend .rect_4
+ {
+     fill: #fc8d59;
+ }
+
+ #legend .rect_5
+ {
+     fill: #ef6548;
+ }
+
+ #legend .rect_6
+ {
+     fill: #d7301f;
+ }
+
+ #legend .rect_7
+ {
+     fill: #990000;
+ }
+
+ #legend .rect_8
+ {
+     fill: #E0E0E0;
+ }
+
+ /* Style for the paragraph with explanation */
+ #text p
+ {
+     width: 550px;
+     text-align: left;
+     font-size: 13px;
+ }
+
+/*
+ * The CSS below was included with the SVG map I downloaded and is not my own. I only made minor changes.
+ * Source: https://commons.wikimedia.org/wiki/Category:Blank_SVG_maps_of_the_world_without_Antarctica
+ */
+
+.circlexx
+{
+   opacity:0;
+   fill:#E0E0E0;
+   stroke:black;
+   stroke-width:0.5;
+}
+
+/*
+ * land
+ */
+.landxx
+{
+   fill: #E0E0E0;
+   stroke:#fff;
+   stroke-width:0.8;
+}
+/*
+ * Styles for coastlines of islands with no borders
+ */
+.coastxx
+{
+   stroke-width: 0.8;
+}
+/*
+ * Antarctica
+ */
+.aq
+{
+   fill:#e6e6e6;
+}
+/*
+ * Sea
+ */
+.ocean
+{
+   opacity: 1;
+   color: #000;
+   fill:#fff;
+}
+
+.lake
+{
+   fill:white;
+   fill-opacity:1;
+   stroke:none;
+}
