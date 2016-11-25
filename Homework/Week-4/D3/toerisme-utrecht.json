@@ -1,0 +1,42 @@
+[
+    {
+        "land": "Duitsland",
+        "aantal": "31000"
+    },
+    {
+        "land": "Belgie",
+        "aantal": "21000"
+    },
+    {
+        "land": "Verenigd Koninkrijk",
+        "aantal": "39000"
+    },
+    {
+        "land": "Frankrijk",
+        "aantal": "13000"
+    },
+    {
+        "land": "Italie",
+        "aantal": "9000"
+    },
+    {
+        "land": "Spanje",
+        "aantal": "9000"
+    },
+    {
+        "land": "Scandinavie",
+        "aantal": "12000"
+    },
+    {
+        "land": "Verenigde Staten",
+        "aantal": "15000"
+    },
+    {
+        "land": "Azie",
+        "aantal": "17000"
+    },
+    {
+        "land": "Overig",
+        "aantal": "29000"
+    }
+]
