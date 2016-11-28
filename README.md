@@ -14,11 +14,16 @@ A folder with all programming assignments, sorted by week. List of contents:
   > A web-page with a Javascript Line Graph showing the maximum temperature in De Bilt in 2015. 
   
 * **Week 3:** [SVG map](https://github.com/ElineJ/DataProcessing/tree/master/Homework/Week-3) :earth_africa:  
-
-  > A map of the world that shows the refugee population in each country in 2015.
+  > A map of the world that shows the refugee population in each country in 2015.  
+  
+* **Week 4:** [D3 - Bar Chart](https://github.com/ElineJ/DataProcessing/tree/master/Homework/Week-4/D3) :bar_chart:
+  
+  > An interactive bar chart that shows the country of origin of tourists in Utrecht in 2015. 
 
 ### Design
 A folder with all group assignments (group 3) for design, sorted by week. 
 
 * **Week 1:** [Population Data](https://github.com/ElineJ/DataProcessing/tree/master/Design/Week-1)
 * **Week 2:** [Design Critique](https://github.com/ElineJ/DataProcessing/tree/master/Design/Week-2)
+* **Week 3:** [Rainbow Color Map](https://github.com/ElineJ/DataProcessing/tree/master/Design/Week-3)
+* **Week 4:** [GitHub Visualization](https://github.com/ElineJ/DataProcessing/tree/master/Design/Week-4)
