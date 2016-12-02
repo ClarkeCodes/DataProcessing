@@ -1,0 +1,65 @@
+/**
+ * d3map.css
+ *
+ * Eline Jacobse
+ * Data Processing
+ * Student.nr: 11136235
+ *
+ * Custom CSS for the webpage d3map.html
+ */
+
+body
+{
+    font-family: "Open Sans", "Helvetica", sans-serif;
+}
+
+
+#container
+{
+    margin: auto;
+}
+
+.title
+{
+    color: #515151;
+    margin-left: auto;
+    margin-right: auto;
+    text-anchor: "middle";
+    font-size: 20px;
+    font-weight: bold;
+}
+
+/* Styles for the legend */
+g.legend
+{
+    font-size: 12px;
+}
+
+g.legend rect
+{
+    stroke-width: 1px;
+    stroke: white;
+    align-self: left;
+}
+
+#legendTitle
+{
+    font-family: "Open Sans", "Helvetica", sans-serif;
+    font-size: 12.5px;
+    font-weight: bold;
+}
+
+/* Styles for the paragraph with explanation */
+#text
+{
+    background-color: rgba(254, 232, 200, 0.37);
+}
+
+#text p
+{
+    width: 550px;
+    text-align: left;
+    font-size: 13px;
+    padding: 20px;
+    margin: auto;
+}
