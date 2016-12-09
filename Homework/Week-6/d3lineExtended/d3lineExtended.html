@@ -1,0 +1,42 @@
+<!--
+ * d3lineExtended.html
+ *
+ * Eline Jacobse
+ * Data Processing
+ * Student.nr: 11136235
+ *
+ * Webpage showing an interactive graph of the
+ * temperatures in the De Bilt in 2014 and 2015
+ -->
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" type="text/css" href="d3lineExtended.css"/>
+        <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+        <script src="http://labratrevenge.com/d3-tip/javascripts/d3.tip.v0.6.3.js"></script>
+        <script src="http://d3js.org/queue.v1.min.js"></script>
+        <meta charset="UTF-8">
+    </head>
+    <body>
+        <h2>Temperature in De Bilt in 2014 and 2015</h2>
+        <div class="graph">
+            <p>Curious what the weather was like in 2014 and 2015? On this page you'll find a graph showing
+                the minimum, maximum and average temperature for each day of those years. Just hover over the
+                graph and see the temperatures for a specific date.
+            </p>
+            <div id = "button">
+                <select class = "styled-select slate" onchange="toggle(this);">
+                    <option value = "2015">2015</option>
+                    <option value = "2014">2014</option>
+                </select>
+            </div>
+        </div>
+        <script src="d3lineExtended.js"></script>
+    </body>
+    <footer>
+        <p>© Eline Jacobse<br>
+        Source: <a href="http://projects.knmi.nl/klimatologie/daggegevens/selectie.cgi">KNMI</a>
+        </p>
+    </footer>
+</html>

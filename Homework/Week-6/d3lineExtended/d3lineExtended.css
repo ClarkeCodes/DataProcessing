@@ -1,0 +1,159 @@
+/**
+ * d3lineExtended.css
+ *
+ * Eline Jacobse
+ * Data Processing
+ * Student.nr: 11136235
+ *
+ * Custom CSS for the webpage d3lineExtended.html
+ */
+
+body
+{
+    font-family: "Open Sans", "Helvetica", sans-serif;
+	font-size: 12px;
+    background: #F2F2F2;
+}
+
+h2
+{
+    padding-top: 20px;
+	text-align: center;
+}
+
+#button
+{
+    align: center;
+    margin: auto;
+    width: 60px;
+    padding-bottom: 20px;
+}
+
+.graph
+{
+	width: 750px;
+	align: center;
+	margin: auto;
+}
+
+.axis path,
+.axis line {
+	fill: none;
+	stroke: grey;
+	stroke-width: 1;
+	shape-rendering: crispEdges;
+}
+
+/* Styles for the lines of graph  */
+
+.avg {
+    fill: none;
+    stroke: #87bd00;
+    stroke-width: 1px;
+}
+
+.min {
+    fill: none;
+    stroke: #0065bd;
+    stroke-width: 1px;
+}
+
+.max {
+    fill: none;
+    stroke: #bd3200;
+    stroke-width: 1px;
+}
+
+/* Styles for the circles in graph  */
+
+circle.y1
+{
+	fill: #87bd00;
+	stroke: #87bd00;
+}
+
+circle.y2
+{
+	fill: #0065bd;
+	stroke: #0065bd;
+}
+
+circle.y3
+{
+	fill: #bd3200;
+	stroke: #bd3200;
+}
+
+/* Rectangle to capture mouse movements on graph */
+rect
+{
+	fill: none;
+	pointer-events: all;
+}
+
+/* horizontal line shown on mouseover */
+line.x
+{
+	stroke: grey;
+	opacity: 0.8;
+}
+
+/* text styles for date and temperature */
+text.min_temp
+{
+    fill: #0065bd;
+}
+text.max_temp
+{
+    fill: #bd3200;
+}
+text.avg_temp
+{
+    fill: #87bd00;
+}
+text.date
+{
+	font-weight: bold;
+}
+
+footer
+{
+	align: center;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 40px;
+	width: 100px;
+}
+
+.linegraph
+{
+    border: 1px solid black;
+    background-color: white;
+
+}
+
+/*
+ * CSS for the dropdown menu.
+ * Source: https://codepen.io/bephf/pen/ogNBYW
+ */
+
+.styled-select select {
+   background: white;
+   border: none;
+   font-size: 12px;
+   height: 25px;
+   padding: 5px;
+   width: 100px;
+}
+
+.styled-select.slate {
+   height: 25px;
+   width: 100px;
+}
+
+.styled-select.slate select {
+   border: 1px solid #ccc;
+   font-size: 12px;
+   height: 25px;
+   width: 100px;
+}
