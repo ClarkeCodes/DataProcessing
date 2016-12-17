@@ -1,0 +1,50 @@
+<!--
+ * d3linkedViews.html
+ *
+ * Eline Jacobse
+ * Data Processing
+ * Student.nr: 11136235
+ *
+ -->
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" type="text/css" href="d3linkedViews.css" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+    <script src="//cdnjs.cloudflare.com/ajax/libs/d3/3.5.3/d3.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/topojson/1.6.9/topojson.min.js"></script>
+    <script src="/datamaps.world.min.js"></script>
+    <script src="countries.js"></script>
+    <meta charset="UTF-8">
+    <title>Happiness Planet Index</title>
+</head>
+
+<body>
+    <h3>The World's Happiest Countries in 2015</h3>
+    <p>The <a href="http://happyplanetindex.org/">Happy Planet Index</a> (HPI) shows you what the happiest countries in the world are.
+        Explore the data below, and also check out how many happy life years (the years that someone can live happily) a person has on average in each country. Curious about your country? Look on the map, or find it in the table below!</p>
+    <div id="button">
+        <select class="btn btn-secondary dropdown-toggle" onchange="toggle(this);">
+            <option value = "HPI">Happy Planet Index</option>
+            <option value = "happy_years">Happy Years</option>
+        </select>
+    </div>
+    <div id="mapcontainer" style="width: 850px; height: 650px;"></div>
+    <div id="tablecontainer">
+        <input type="text" id="tableInput" onkeyup="searchTable()" placeholder="Search for country...">
+    </div>
+    <div id="chartcontainer">
+        <h4>Happy Years vs. Wellbeing</h4>
+        <p>How does the average wellbeing affect the happy life years? In this graph, the wellbeing of an average person in each country
+            is graded on a scale of 1 to 10.</p>
+    </div>
+    <script src="d3linkedViews.js"></script>
+</body>
+<footer>
+    © Eline Jacobse<br>
+    Std.nr.: 11136235<br>
+    <a href="http://happyplanetindex.org/">Data source</a>
+</footer>
+
+</html>
