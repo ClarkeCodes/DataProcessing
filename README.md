@@ -25,6 +25,9 @@ A folder with all programming assignments, sorted by week. List of contents:
   
 * **Week 6:** [D3 Line](https://github.com/ElineJ/DataProcessing/tree/master/Homework/Week-6) :partly_sunny:
   > Two line interactive line graphs showing the average, minumum and maximum temperature in De Bilt in 2014 and 2015. 
+  
+* **Week 7:** [D3 Linked Views](https://github.com/ElineJ/DataProcessing/tree/master/Homework/Week-7/D3LinkedViews) :computer:
+  > An interactive dashboard with a worldmap, table and scatterplot showing the Happy Planet Index and Happy Life Years.
 
 
 ### Design
