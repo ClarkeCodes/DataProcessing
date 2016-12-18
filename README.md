@@ -39,4 +39,4 @@ A folder with all group assignments (group 3) for design, sorted by week.
 * **Week 4:** [GitHub Visualization](https://github.com/ElineJ/DataProcessing/tree/master/Design/Week-4)
 * **Week 5-6:** [Storytelling - video](https://github.com/ElineJ/DataProcessing/tree/master/Design/Week-5%20)  
   > [Link to video](https://youtu.be/33EDkRgKyFw)
-* **Week 7:** [Design critique of video's](https://github.com/ElineJ/DataProcessing/tree/master/Design/Week-7)
+* **Week 7:** [Design critique of videos](https://github.com/ElineJ/DataProcessing/tree/master/Design/Week-7)
